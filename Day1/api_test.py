@@ -1,6 +1,6 @@
 import requests
 
-username = "torvalds"
+username = "Dhruv-Mishra-dm"
 url = f"https://api.github.com/users/{username}"
 
 print("Fetching data....")

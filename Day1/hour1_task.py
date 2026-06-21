@@ -1,7 +1,7 @@
 
 for i in range(101) :
     if i == 0 : 
-        print (f"{i} is niether even nor odd")
+        print (f"{i} is niether even nor odd") # 0 is even 
         
     elif i % 2 == 0:
         print (f"{i} is a even number")
